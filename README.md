@@ -1,5 +1,13 @@
-# API ASP Net Core Para Sistema de Marketplace
-Esta api formó parte de un proyecto universitario, del cual, esta API tiene el objetivo de ser el *Backend*. Dicho proyecto también es constituido por un Sitio Web y una Aplicación Movil que consumiran la API que aqui se publica.
+# Sistema API TrueQ
+
+## AUTORES
+1. Jesús Alejandro Gutierrez Montufar
+1. Miguel Angel Nuñez Gómez
+1. Joseph Abrahan Yáñez García
+Universidad Tecnológica de Tula - Tepeji
+Tecnologías de la Información, Área Desarrollo de Software
+Asesora Prof. Odisey Porras
+2026
 
 ## Caracteristicas de esta API
 ### Autenticación
