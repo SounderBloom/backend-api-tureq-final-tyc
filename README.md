@@ -4,6 +4,7 @@
 1. Jesús Alejandro Gutierrez Montufar
 1. Miguel Angel Nuñez Gómez
 1. Joseph Abrahan Yáñez García
+
 Universidad Tecnológica de Tula - Tepeji
 Tecnologías de la Información, Área Desarrollo de Software
 Asesora Prof. Odisey Porras
